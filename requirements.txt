@@ -1,3 +1,11 @@
-aiogram==2.22.1
-environs==8.0.0
-requests==2.28.2
+pyrogram==2.0.83
+pyromod
+humanize
+pymongo
+Pillow
+hachoir
+TgCrypto
+dnspython
+Flask
+gunicorn
+aiohttp
